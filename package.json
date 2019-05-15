@@ -1,0 +1,24 @@
+{
+  "name": "node",
+  "version": "1.0.0",
+  "description": "First Project",
+  "main": "async.js",
+  "dependencies": {
+    "express": "^4.16.4",
+    "gulp": "^4.0.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "none yet"
+  },
+  "keywords": [
+    "First",
+    "Project"
+  ],
+  "author": "Felix Dnelix",
+  "license": "ISC"
+}

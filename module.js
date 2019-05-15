@@ -1,0 +1,1 @@
+exports.myText = "LoL, Here's a text service from the module";

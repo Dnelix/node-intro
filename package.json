@@ -5,7 +5,8 @@
   "main": "async.js",
   "dependencies": {
     "express": "^4.16.4",
-    "gulp": "^4.0.2"
+    "gulp": "^4.0.2",
+    "koa": "^2.7.0"
   },
   "devDependencies": {},
   "scripts": {

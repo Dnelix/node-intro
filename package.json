@@ -4,6 +4,7 @@
   "description": "First Project",
   "main": "async.js",
   "dependencies": {
+    "bluebird": "^3.5.4",
     "express": "^4.16.4",
     "gulp": "^4.0.2",
     "koa": "^2.7.0"
